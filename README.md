@@ -1,4 +1,4 @@
-# Cyberbullying Data analysis and visualisaiton
+# Relatstionship status Data analysis and visualisation
 
 ## Description
 This was a group project I did in the module Intro to Data science and AI where we took a dataset from kaggle and analyzed the trends and predict whether a person is in a relationship or not. Using Python, we visualised the data using NumPY and Pandas to understand the trends of each variable. We then took the variables and analyzed which affects the variable "Relationship status" as the prediction and "Mental_Health_Score", "Sleep_Hours_Per_Night", "Avg_Daily_Usage_Hours" as their predictors.
